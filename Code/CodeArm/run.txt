@@ -1,0 +1,9 @@
+//compile code
+bash cr_compile.sh
+
+//sau khi co file arm toi uu
+toi uu tung file vaf compile code toi uu
+bash cr_compile_tu.sh
+
+//chay file
+bash qemu.sh ./bai1/ba1_arm

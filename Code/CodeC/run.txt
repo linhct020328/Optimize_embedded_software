@@ -1,0 +1,17 @@
+// gcc file c
+	bash compile_c.sh
+
+// gcc file c toi uu
+	bash compile_tu.sh
+
+//run code
+vi du: 	./bai1
+
+//xem kich thuoc
+vi du: 	time ./bai1
+	time ./a.out	
+
+//xem kich thuoc
+vi du:	ls -l
+	size ./bai1
+	size ./a.out

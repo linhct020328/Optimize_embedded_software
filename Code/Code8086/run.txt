@@ -1,0 +1,21 @@
+//compile code
+bash compile_8086.sh
+
+//run code
+vi du: 	./bai1_8086
+
+//tao cac file toi uu
+vi du:	gedit bai1_8086tu.s
+--> write
+
+//compile code toi uu
+bash compile_8086tu.sh
+
+//xem kich thuoc
+vi du: 	time ./bai1_8086
+	time ./a.out	
+
+//xem kich thuoc
+vi du:	ls -l
+	size ./bai1_8086
+	size ./a.out

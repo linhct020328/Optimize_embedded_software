@@ -1,0 +1,9 @@
+// c compile to 8086
+bash Cto8086.sh
+
+//install gcc-gnu,qemu
+bash setup.sh
+
+// c cross compile to arm
+bash CtoArm.sh
+bash CtoArm_tu.sh
